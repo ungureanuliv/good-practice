@@ -8,6 +8,7 @@ public class Pupil {
     private int[] grades;
 
     public String getFirstName() {
+
         return firstName;
     }
 
@@ -17,6 +18,7 @@ public class Pupil {
     }
 
     public String getLastName() {
+
         return lastName;
     }
 
@@ -26,6 +28,7 @@ public class Pupil {
     }
 
     public String getEmail() {
+
         return email;
     }
 
@@ -35,6 +38,7 @@ public class Pupil {
     }
 
     public Integer getAge() {
+
         return age;
     }
 
@@ -44,6 +48,7 @@ public class Pupil {
     }
 
     public int[] getGrades() {
+
         return grades;
     }
 

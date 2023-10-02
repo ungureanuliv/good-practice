@@ -12,7 +12,7 @@ public class PupilAdapter implements Student { // 2.implement the interface of t
         this.pupil = pupil;
     }
 
-    // 3. This are the methods that allow us to pull out info from adapter in the new model
+    // 3. These are the methods that allow us to pull out info from adapter in the new model
     // 4. Implement the actual logic, from the old model to the new model
     @Override
     public String getFullName() {
